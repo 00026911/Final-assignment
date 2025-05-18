@@ -570,23 +570,10 @@ main .test {
     
 	}
 
-div.user-card { 
-	display: grid;
-    grid-template-columns: 200px 1fr;
-	width: 700px;
-	height: auto;
-	border:2px solid #fff;
-	border-radius: 8px;
-	margin: 0 auto;
-    gap: 20px;
-    padding: 20px;
-	}
-
 .user-card img { 
 	width: 200px;
-	height: 200px;
+	height: 120px;
 	object-fit: cover;
-	object-position:right;
 	border: 2px solid #C20E35;
 	border-radius: 8px;
 	margin: 20px auto;
